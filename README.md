@@ -10,8 +10,8 @@ https://user-images.githubusercontent.com/51899861/230715859-138d7b06-692d-4fdc-
 
 ## Credits
 
-- [Manja Vitolic](https://unsplash.com/@madhatterzone) on [Unsplash](https://unsplash.com/): "Cat in a Bag" photo
-- [Timo Volz](https://unsplash.com/@magict1911) on [Unsplash](https://unsplash.com/): "Black Cat" photo
-- [Yerlin Matu](https://unsplash.com/@yerlinmatu) on [Unsplash](https://unsplash.com/): "Sleepy Cat" photo
-- [Jiawei Zhao](https://unsplash.com/@jiaweizhao) on [Unsplash](https://unsplash.com/): "Kitten in a Cup" photo
-- [Lingda Kong](https://unsplash.com/@konglingda) on [Unsplash](https://unsplash.com/): "Curious Cat" photo
+- [Manja Vitolic](https://unsplash.com/@madhatterzone) on [Unsplash](https://unsplash.com/)
+- [Timo Volz](https://unsplash.com/@magict1911) on [Unsplash](https://unsplash.com/)
+- [Yerlin Matu](https://unsplash.com/@yerlinmatu) on [Unsplash](https://unsplash.com/)
+- [Jiawei Zhao](https://unsplash.com/@jiaweizhao) on [Unsplash](https://unsplash.com/)
+- [Lingda Kong](https://unsplash.com/@konglingda) on [Unsplash](https://unsplash.com/)
