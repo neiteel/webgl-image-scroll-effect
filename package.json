@@ -1,0 +1,30 @@
+{
+  "name": "webgl-image-scroll-effect",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.64.0",
+    "@react-three/fiber": "^8.12.0",
+    "@react-three/flex": "^1.0.1",
+    "@react-three/postprocessing": "^2.7.1",
+    "leva": "^0.9.34",
+    "maath": "^0.5.3",
+    "r3f-perf": "^7.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.151.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^3.1.0",
+    "vite": "^4.2.1",
+    "vite-plugin-glsl": "^1.1.2"
+  }
+}
